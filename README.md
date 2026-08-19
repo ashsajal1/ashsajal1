@@ -77,13 +77,6 @@ Founders hire me to move fast without sacrificing code quality. HR teams like me
 - ✅ **Fast & pragmatic** — startup speed with maintainable code.
 - ✅ **Clear communicator** — founders and HR get regular, readable updates.
 
-### 📈 GitHub Activity
-<p align="left">
-  <img src="https://img.shields.io/github/followers/ashsajal1?style=for-the-badge&logo=github&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ashsajal1?style=for-the-badge&logo=github&color=0e75b6" alt="stars" />
-
-</p>
-
 
 ### 🖼️ Featured Projects
 A selection of web apps I've built with React & Next.js — from utility tools to course platforms.
