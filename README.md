@@ -78,16 +78,13 @@ Founders hire me to move fast without sacrificing code quality. HR teams like me
 
 ### 📈 GitHub Activity
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashsajal1&theme=flat&margin-w=8" alt="trophies" /></a>
-</p>
+  <img src="https://img.shields.io/github/followers/ashsajal1?style=for-the-badge&logo=github&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ashsajal1?style=for-the-badge&logo=github&color=0e75b6" alt="stars" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashsajal1&show_icons=true&locale=en&theme=default&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashsajal1&show_icons=true&locale=en&layout=compact&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashsajal1&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=ashsajal1&hide_border=true" alt="streak" />
 </p>
 
 ### 🖼️ Featured Projects
