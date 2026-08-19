@@ -84,9 +84,6 @@ Founders hire me to move fast without sacrificing code quality. HR teams like me
 
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashsajal1&hide_border=true" alt="streak" />
-</p>
 
 ### 🖼️ Featured Projects
 A selection of web apps I've built with React & Next.js — from utility tools to course platforms.
