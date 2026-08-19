@@ -27,6 +27,26 @@ I'm a **remote software engineer** who turns ideas into shipped products. My swe
 - **Design → code** — Figma to clean, reusable React components.
 - **Full deployment** — Vercel/CI/CD, performance tuning, Core Web Vitals.
 
+
+### 💡 Why Work With Me
+- ✅ **End-to-end ownership** — from wireframe to production, not just tickets.
+- ✅ **Remote-first** — async communication, reliable, self-managed.
+- ✅ **AI-native** — I ship AI features, not just talk about them.
+- ✅ **Fast & pragmatic** — startup speed with maintainable code.
+- ✅ **Clear communicator** — founders and HR get regular, readable updates.
+
+
+### 🖼️ Featured Projects
+A selection of web apps I've built with React & Next.js — from utility tools to course platforms.
+
+| Project | Preview |
+|---------|---------|
+| **Typing App** — improve typing speed & accuracy | ![Typing App](webapp/typing-app.png) |
+| **Sohojboi** — content/reading web app | ![Sohojboi](webapp/sohojboi.png) |
+| **Mini Course** — online course platform | ![Mini Course](webapp/mini-course.png) |
+| **JS Practice App** — interactive JavaScript practice | ![JS Practice App](webapp/js-practice-app.png) |
+| **Calorie Tracker** — track nutrition & daily intake | ![Calorie Tracker](webapp/calorie-tracker.png) |
+
 ### 🧰 Core Stack
 
 **Frontend**
@@ -68,25 +88,6 @@ I'm a **remote software engineer** who turns ideas into shipped products. My swe
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-### 💡 Why Work With Me
-- ✅ **End-to-end ownership** — from wireframe to production, not just tickets.
-- ✅ **Remote-first** — async communication, reliable, self-managed.
-- ✅ **AI-native** — I ship AI features, not just talk about them.
-- ✅ **Fast & pragmatic** — startup speed with maintainable code.
-- ✅ **Clear communicator** — founders and HR get regular, readable updates.
-
-
-### 🖼️ Featured Projects
-A selection of web apps I've built with React & Next.js — from utility tools to course platforms.
-
-| Project | Preview |
-|---------|---------|
-| **Typing App** — improve typing speed & accuracy | ![Typing App](webapp/typing-app.png) |
-| **Sohojboi** — content/reading web app | ![Sohojboi](webapp/sohojboi.png) |
-| **Mini Course** — online course platform | ![Mini Course](webapp/mini-course.png) |
-| **JS Practice App** — interactive JavaScript practice | ![JS Practice App](webapp/js-practice-app.png) |
-| **Calorie Tracker** — track nutrition & daily intake | ![Calorie Tracker](webapp/calorie-tracker.png) |
 
 ### 📫 Let's Connect
 Always happy to explore how I can help bring product ideas to life.
