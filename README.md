@@ -19,7 +19,6 @@
 ### 👋 Who I Am
 I'm a **remote software engineer** who turns ideas into shipped products. My sweet spot is the **React + Next.js** stack: I can take a startup from a blank repo to a live, conversion-focused landing page, then extend it into a real application with authentication, payments, databases, and **AI features** baked in.
 
-Founders hire me to move fast without sacrificing code quality. HR teams like me because I communicate clearly, work asynchronously across time zones, and own features end-to-end.
 
 ### 🚀 What I Can Build For You
 - **Landing pages & marketing sites** — fast, SEO-optimized, responsive, conversion-focused (Next.js, Tailwind).
