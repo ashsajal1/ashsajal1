@@ -92,7 +92,7 @@ A selection of web apps I've built with React & Next.js — from utility tools t
 ### 📫 Let's Connect
 Always happy to explore how I can help bring product ideas to life.
 
-- 🌐 **Portfolio:** [ashsajal.netlify.app](https://ashsajal.netlify.app/)
+- 🌐 **Portfolio:** [View Portfolio](https://ashsajal.netlify.app/)
 - 📧 **ashsajal@yahoo.com**
 - 💼 [LinkedIn](https://linkedin.com/in/ashsajal)
 - 🐦 [Twitter / X](https://twitter.com/ashsajal1)
