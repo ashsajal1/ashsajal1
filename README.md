@@ -5,6 +5,7 @@
   <a href="mailto:ashsajal@yahoo.com"><img src="https://img.shields.io/badge/Email-ashsajal@yahoo.com-blue?style=flat-square&logo=gmail" alt="email" /></a>
   <a href="https://linkedin.com/in/ashsajal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat-square&logo=linkedin" alt="linkedin" /></a>
   <a href="https://dev.to/ashsajal"><img src="https://img.shields.io/badge/Dev.to-@ashsajal-black?style=flat-square&logo=dev.to" alt="devto" /></a>
+  <a href="https://ashsajal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=netlify" alt="portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=ashsajal1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
@@ -101,6 +102,7 @@ A selection of web apps I've built with React & Next.js — from utility tools t
 ### 📫 Let's Connect
 Always happy to explore how I can help bring product ideas to life.
 
+- 🌐 **Portfolio:** [ashsajal.netlify.app](https://ashsajal.netlify.app/)
 - 📧 **ashsajal@yahoo.com**
 - 💼 [LinkedIn](https://linkedin.com/in/ashsajal)
 - 🐦 [Twitter / X](https://twitter.com/ashsajal1)
