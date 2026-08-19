@@ -37,15 +37,16 @@ I'm a **remote software engineer** who turns ideas into shipped products. My swe
 
 
 ### 🖼️ Featured Projects
-A selection of web apps I've built with React & Next.js — from utility tools to course platforms.
+A selection of web apps I've built — from utility tools to SaaS templates. Click any preview to visit the live site.
 
-| Project | Preview |
-|---------|---------|
-| **Typing App** — improve typing speed & accuracy | ![Typing App](webapp/typing-app.png) |
-| **Sohojboi** — content/reading web app | ![Sohojboi](webapp/sohojboi.png) |
-| **Mini Course** — online course platform | ![Mini Course](webapp/mini-course.png) |
-| **JS Practice App** — interactive JavaScript practice | ![JS Practice App](webapp/js-practice-app.png) |
-| **Calorie Tracker** — track nutrition & daily intake | ![Calorie Tracker](webapp/calorie-tracker.png) |
+| Project | Preview | Links |
+|---------|---------|-------|
+| **Typing App**<br><sub>Practice & improve typing skills with a clean React interface.</sub> | [![Typing App](webapp/typing-app.png)](https://typing-practice-pro.netlify.app/) | [🌐 Live](https://typing-practice-pro.netlify.app/) · [💻 Repo](https://github.com/ashsajal1/typing-app) |
+| **Sohojboi**<br><sub>Q&A, quizzes, and educational blog built with Next.js & MongoDB.</sub> | [![Sohojboi](webapp/sohojboi.png)](https://sohojboi.netlify.app/) | [🌐 Live](https://sohojboi.netlify.app/) · [💻 Repo](https://github.com/ashsajal1/sohojboi) |
+| **Mini Course**<br><sub>Online course platform built with Next.js & PostgreSQL.</sub> | [![Mini Course](webapp/mini-course.png)](https://minicourse.netlify.app/) | [🌐 Live](https://minicourse.netlify.app/) · [💻 Repo](https://github.com/ashsajal1/mini-course) |
+| **JS Practice App**<br><sub>Practice JavaScript, Rust, Golang, React and more.</sub> | [![JS Practice App](webapp/js-practice-app.png)](https://js-practices-app.netlify.app/) | [🌐 Live](https://js-practices-app.netlify.app/) · [💻 Repo](https://github.com/ashsajal1/js-practice-app) |
+| **Next SaaS Template**<br><sub>Starter kit with auth, database & responsive design for scalable SaaS.</sub> | _screenshot coming soon_ | [🌐 Live](https://next-saas.netlify.app/) · [💻 Repo](https://github.com/ashsajal1/next-saas-template) |
+| **Calorie Tracker**<br><sub>Sleek Vue 3 + TypeScript tracker to log meals and monitor goals.</sub> | [![Calorie Tracker](webapp/calorie-tracker.png)](https://calorie-trackers-pro.netlify.app/) | [🌐 Live](https://calorie-trackers-pro.netlify.app/) · [💻 Repo](https://github.com/ashsajal1/calorie-tracker) |
 
 ### 🧰 Core Stack
 
